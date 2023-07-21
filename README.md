@@ -52,10 +52,10 @@
   </section>
   
   <section id="contact">
-    <h2>09282109145</h2>
+    <h2>coctact me</h2>
     <form>
-      <label for="name">felix josh mata</label>
-      <input type="text" id="name" name="name" required>
+      <label for="name">number 09282109145 email address: feli.mata.up phinmaed.com my adress:344 pao manaoag pangasinan </label>
+      <input type="text" id="FELIX JOSH MATA" name="name" required>
       
       <label for="email">feli.mata.up@phinmaed.com</label>
       <input type="email" id="email" name="email" required>
