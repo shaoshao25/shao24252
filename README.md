@@ -14,7 +14,6 @@
   <nav>
     <ul>
       <li><a href="#about">About</a></li>
-      
       <li><a href="#skills">Skills</a></li>
       <li><a href="#projects">Projects</a></li>
       <li><a href="#contact">Contact</a></li>
@@ -23,7 +22,15 @@
   
   <section id="about">
     <h2>About Me</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu sapien at leo luctus auctor a sed libero.</p>
+    <p>1. When I get stressed; I listen to music or just sleep it in.
+
+2. I like being organized; but I also get pretty messy when it comes to arts!
+
+3. If I am focused; I type fast, if I am not focused about something, I type slow.
+
+4. I am the type of person who likes to do things early, and I sometimes end up doing it late.
+
+5. I am the type of person who has big dreams, but don't know how to achieve them..</p>
   </section>
   
   <section id="skills">
@@ -61,7 +68,7 @@
   </section>
   
   <footer>
-    <p>&copy; 2021 My Portfolio. All rights reserved.</p>
+    <p>&copy; 2023 My Portfolio. All rights reserved.</p>
   </footer>
 </body>
 </html>
