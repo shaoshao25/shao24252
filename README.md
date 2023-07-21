@@ -52,12 +52,12 @@
   </section>
   
   <section id="contact">
-    <h2>Contact Me</h2>
+    <h2>09282109145</h2>
     <form>
-      <label for="name">Name</label>
+      <label for="name">felix josh mata</label>
       <input type="text" id="name" name="name" required>
       
-      <label for="email">Email</label>
+      <label for="email">feli.mata.up@phinmaed.com</label>
       <input type="email" id="email" name="email" required>
       
       <label for="message">Message</label>
